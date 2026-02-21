@@ -18,16 +18,7 @@ My current research interests lie in advancing predictive simulations of molecul
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
-- Course Project, UW–Madison, Department of Electrical & Computer Engineering, *2025.04.–2025.05.*
-  - Advisor: Prof. Grigorios Chrysos  
-  - Final project in CS 761 (Mathematics for Machine Learning)\\
-  [PDEs in RKHS](./assets/PDE_RKHS.pdf)
-- Lab Rotation, UW–Madison, Department of Chemistry, *2024.10.–2024.11.*  
-  - Advisor: Prof. Xuhui Huang  
-  [Markov State Model Review](./assets/MSM.pdf)
-- Undergrad Intern, Gwangju Institute of Science and Technology (GIST) *Summer, 2019.*
-  - Advisor: Prof. Yoonsoo Pang  
-  [Metal-Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
+  - Excited state of spin defect with quantum defect embedding theory *manuscript* (co-advised by Yuan Ping)
 
 
 ## Work Experience
