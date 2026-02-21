@@ -18,7 +18,7 @@ My current research interests lie in advancing predictive simulations of molecul
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
-  - Excited state of spin defect with quantum defect embedding theory *manuscript* (co-advised by Yuan Ping)
+  - Excited state of spin defect with quantum defect embedding theory *manuscript* (co-advised by Prof.Yuan Ping)
 
 
 ## Work Experience
