@@ -14,12 +14,15 @@ My current research interests lie in advancing predictive simulations of molecul
   * Merit-based scholarships for 6 semesters
   * Awarded full-year full-tuition waiver upon admission
 
-## Research Projects (Selected)
+## Research Experience
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
   - Excited state of spin defect with quantum defect embedding theory *manuscript*
     - co-advised by Prof.Yuan Ping
+- Undergrad Intern, Gwangju Institute of Science and Technology (GIST) *Summer, 2019.*
+  - Advisor: Prof. Yoonsoo Pang  
+  [Metal-Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
 
 ## Work Experience
 - [Portfolio](./assets/Portfolio.pdf)
