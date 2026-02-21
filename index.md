@@ -14,7 +14,7 @@ My current research interests lie in advancing predictive simulations of molecul
   * Merit-based scholarships for 6 semesters
   * Awarded full-year full-tuition waiver upon admission
 
-## Research Experience
+## Selected Research Experience
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
