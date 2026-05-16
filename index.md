@@ -15,13 +15,13 @@ My current research interests lie in advancing predictive simulations of molecul
   * Awarded full-year full-tuition waiver upon admission
 
 ## Selected Research Experience
-- Graduate Internship, Argonne National Laboratory, *summer 2026.*
+- Grad Intern, Argonne National Laboratory, Mathematics and Computer Science (MCS) Division, *summer 2026.*
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
   - Excited state of spin defect with quantum defect embedding theory *manuscript*
     - co-advised by Prof.Yuan Ping
-- Undergrad Intern, Gwangju Institute of Science and Technology (GIST) *Summer, 2019.*
+- Undergrad Intern, Gwangju Institute of Science and Technology (GIST), Department of Chemistry, *Summer 2019.*
   - Advisor: Prof. Yoonsoo Pang  
   [Metal-Enhanced Fluorescence](./assets/MEF_THEORY.pdf)
 
