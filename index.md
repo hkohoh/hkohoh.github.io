@@ -15,7 +15,7 @@ My current research interests lie in advancing predictive simulations of molecul
   * Awarded full-year full-tuition waiver upon admission
 
 ## Selected Research Experience
-- Grad Intern, Argonne National Laboratory, Mathematics and Computer Science (MCS) Division, *summer 2026.*
+- Grad Intern, Argonne National Lab, Math and Computer Science (MCS) Division, *summer 2026.*
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
