@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About
 
-I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) mainly in the financial sector, SamsungCard, Shinhan, and a start-up for three years. I was fortunate to meet many wonderful people, and I learned a lot from them, including practical working knowledge and how to actually get things done.
+I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) mainly in the financial sector, SamsungCard, Shinhan, and a start-up for three years. I was fortunate to meet many wonderful people, and I learned a lot from them, including practical working knowledge.
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most decent applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within the scientific computing.
 
