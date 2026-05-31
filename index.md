@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About
 
-I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) mainly in the financial sector, including SamsungCard and Shinhan. I was fortunate to meet many wonderful people from whom I learnt how to get things done in real-world projects.
+I am originally from [Gwangju, South Korea](https://en.wikipedia.org/wiki/Gwangju). I majored in Chemistry, Nanoscience and Computer Engineering and worked as a [software developer](./assets/Portfolio.pdf) mainly in the financial sector, including SamsungCard, Shinhan, and a start-up. I was fortunate to meet many smart people from whom I learnt a lot of working knowledge.
 
 My current research interests lie in advancing predictive simulations of molecules and materials by (i) improving scalable electronic-structure methods (HCI, DFT), (ii) developing hybrid quantum–classical surrogate models for chemistry as the most promising applications of quantum computing, and (iii) building reliable excited-state dynamics workflows with quantified uncertainty. Broadly, I am always keen on AI/ML tools including LLMs to accelerate modeling and enhance decision-making within the scientific computing.
 
@@ -19,7 +19,7 @@ My current research interests lie in advancing predictive simulations of molecul
 - Research Assistant, UW–Madison, Department of Physics, *2025.06.- present*
   - Advisor: Prof. Matthew Otten
   - Semi-stochastic Heat bath Configuration Interaction (SHCI) Benchmarks *manuscript*
-  - Excited state of spin defect with quantum defect embedding theory *manuscript*
+  - Excited state of spin defect with quantum defect embedding theory *submitted*
     - co-advised by Prof.Yuan Ping
 - Undergrad Intern, Gwangju Institute of Science and Technology (GIST), Department of Chemistry, *Summer 2019.*
   - Advisor: Prof. Yoonsoo Pang  
